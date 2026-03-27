@@ -1,8 +1,7 @@
                                Social Media Usage and Academic Performance Analysis
 
-    Overview
-
-End-to-end exploratory data analysis (EDA) of student data using Python to understand how social media usage affects academic performance, study habits, and sleep patterns.
+Overview
+    End-to-end exploratory data analysis (EDA) of student data using Python to understand how social media usage affects academic            performance, study habits, and sleep patterns.
 
 Key Objectives
 	•	Analyze the relationship between social media usage and GPA
